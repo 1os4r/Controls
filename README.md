@@ -39,7 +39,7 @@ $ go run main.go
 `lport=`    |指定目标端口
 `fname=`    |指定输出文件名称
 `--windows` |目标系统为``` Windows```
-`--macos`   |猎目标系统为 ```Mac OS```
+`--macos`   |目标系统为 ```Mac OS```
 `--linux`   |目标系统为 ```Linux```
 `listen`    |从本地的一个端口监听 (```e.g```. `listen lport=8080`)
 `serve`     |服务文件
