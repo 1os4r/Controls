@@ -65,7 +65,7 @@ $ go run main.go
 
 ## Features
 
-| 功能                 |  Linux  |  MacOS  |  Win |
+| 作用                 |  Win  |  MacOS  |  Linux |
 |:-------------------------|:-------:|:------:|:-----:|
 | `Reverse Shell`          |    X    |    X   |   X   |
 | `Download File`          |    X    |    X   |   X   |
