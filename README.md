@@ -21,7 +21,7 @@
 
 ## 如何安装
 ```bash
-$ go get github.com/HexChristmas/Christmas
+$ go get github.com/1os4r/Controls
 $ go get github.com/kbinani/screenshot
 $ go get github.com/lxn/win
 $ go get github.com/matishsiao/goInfo
