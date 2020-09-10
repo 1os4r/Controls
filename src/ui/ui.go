@@ -8,12 +8,12 @@ import (
 	"strings"
 
 	prompt "github.com/c-bata/go-prompt"
-	c "github.com/HexChristmas/Christmas/src/color"
-	"github.com/HexChristmas/Christmas/src/completer"
-	"github.com/HexChristmas/Christmas/src/network"
-	"github.com/HexChristmas/Christmas/src/parameters"
-	"github.com/HexChristmas/Christmas/src/serve"
-	"github.com/HexChristmas/Christmas/src/util"
+	c "github.com/1os4r/Controls/src/color"
+	"github.com/1os4r/Controls/src/completer"
+	"github.com/1os4r/Controls/src/network"
+	"github.com/1os4r/Controls/src/parameters"
+	"github.com/1os4r/Controls/src/serve"
+	"github.com/1os4r/Controls/src/util"
 )
 
 func StartMenu() {
@@ -95,7 +95,7 @@ func StartMenu() {
 
 			// Set filename output
 			// If filename is empty, by default it receive "payload"
-			fileName := "Christmas"
+			fileName := "Controls"
 			if p.FName == "" {
 				fmt.Println(c.YELLOW, "[i] Default fname defined ("+fileName+").")
 			} else {
