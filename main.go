@@ -33,7 +33,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package main
 
 import (
-	"github.com/HexChristmas/Christmas/src/cmd"
+	"github.com/1os4r/Controls/src/cmd"
 )
 
 func main() {
