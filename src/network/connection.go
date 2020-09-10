@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	prompt "github.com/c-bata/go-prompt"
-	c "github.com/HexChristmas/Christmas/src/color"
-	"github.com/HexChristmas/Christmas/src/completer"
-	"github.com/HexChristmas/Christmas/src/util"
+	c "github.com/1os4r/Controls/src/color"
+	"github.com/1os4r/Controls/src/completer"
+	"github.com/1os4r/Controls/src/util"
 )
 
 func AwaitForExternalConnection(lport string) {
