@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 
-	c "github.com/HexChristmas/Christmas/src/color"
+	c "github.com/1os4r/Controls/src/color"
 )
 
 func GeneratePath(str_size int) string {
