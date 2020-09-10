@@ -19,7 +19,7 @@
   Controls用来生成控制远程操作系统的Poc。
 </p>
 
-## 如何安装
+## Install
 ```bash
 $ go get github.com/1os4r/Controls
 $ go get github.com/kbinani/screenshot
@@ -30,7 +30,7 @@ $ cd ~/go/src/github.com/HexChristmas/Christmas
 $ go run main.go
 ```
 
-## 如何使用
+## How to Use
 
 命令    | 参数及介绍
 :-----      |:-----
@@ -61,3 +61,18 @@ $ go run main.go
 `clear`                 |清屏
 `back`                  |挂起会话
 `exit`                  |关闭会话
+
+## Features
+
+| Feature                  |  Linux  |  MacOS  |  Win |
+|:-------------------------|:-------:|:------:|:-----:|
+| `Reverse Shell`          |    X    |    X   |   X   |
+| `Download File`          |    X    |    X   |   X   |
+| `Upload File`            |    X    |    X   |   X   |
+| `Screenshot`             |    X    |    X   |   X   |
+| `Keylogger`              |    X    |        |       |
+| `Persistence`            |    X    |        |       |
+| `Open URL`               |    X    |    X   |   X   |
+| `Get OS Info`            |    X    |    X   |   X   |
+| `Fork Bomb`              |    X    |    X   |   X   |
+| `Run Hidden`             |    X    |        |       |
