@@ -1,6 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/1os4r/Controls/blob/master/content/logo.png">
 </p>
+-->
 
 <h1 align="center">Controls Payload Generator</h1>
 <p align="center">
