@@ -27,7 +27,7 @@ $ go get github.com/kbinani/screenshot
 $ go get github.com/lxn/win
 $ go get github.com/matishsiao/goInfo
 $ go get golang.org/x/sys/windows
-$ cd ~/go/src/github.com/HexChristmas/Christmas
+$ cd ~/go/src/github.com/1os4r/Controls
 $ go run main.go
 ```
 
