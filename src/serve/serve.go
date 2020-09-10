@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	c "github.com/HexChristmas/Christmas/src/color"
+	c "github.com/1os4r/Controls/src/color"
 )
 
 func main() {
