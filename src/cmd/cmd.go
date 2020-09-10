@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/HexChristmas/Christmas/src/ui"
-	"github.com/HexChristmas/Christmas/src/util"
+	"github.com/1os4r/Controls/src/ui"
+	"github.com/1os4r/Controls/src/util"
 )
 
 func Start() {
