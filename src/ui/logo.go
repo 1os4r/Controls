@@ -3,7 +3,7 @@ package ui
 import (
 	"fmt"
 
-	c "github.com/CooChristmas/Christmas/src/color"
+	c "github.com/1os4r/Controls/src/color"
 )
 
 func ShowLogo() {
