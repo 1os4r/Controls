@@ -35,7 +35,7 @@ $ go run main.go
 
 命令    | 参数及介绍
 :-----      |:-----
-`generate`  |生成控制程序 (```e.g```. `generate lhost=192.168.0.100 lport=8080 fname=chaos --windows`)
+`generate`  |生成控制程序 (```e.g```. `generate lhost=192.168.0.100 lport=8080 fname=test --windows`)
 `lhost=`    |指定目标ip
 `lport=`    |指定目标端口
 `fname=`    |指定输出文件名称
