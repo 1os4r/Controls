@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net"
 
-	c "github.com/HexChristmas/Christmas/src/color"
-	"github.com/HexChristmas/Christmas/src/util"
+	c "github.com/1os4r/Controls/src/color"
+	"github.com/1os4r/Controls/src/util"
 )
 
 func SendMessage(conn net.Conn, message string) {
