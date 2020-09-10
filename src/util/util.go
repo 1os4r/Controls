@@ -9,12 +9,12 @@ import (
 	"runtime"
 	"time"
 
-	c "github.com/HexChristmas/Christmas/src/color"
+	c "github.com/1os4r/Controls/src/color"
 )
 
 const (
 	NEW_LINE   string = "\n"
-	BEGIN_NAME string = "Christmas > "
+	BEGIN_NAME string = "Controls > "
 )
 
 func DetectOS() {
