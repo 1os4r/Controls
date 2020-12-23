@@ -4,6 +4,7 @@
 -->
 
 <h1 align="center">Controls Payload Generator</h1>
+<!--
 <p align="center">
   <a href="https://golang.org/">
     <img src="https://img.shields.io/badge/Golang-1.11-blue.svg">
@@ -15,6 +16,7 @@
     <img src="https://img.shields.io/badge/Release-3.0-red.svg">
   </a>
 </p>
+-->
 
 <p align="center">
   Controls用来生成控制远程操作系统的Poc。
